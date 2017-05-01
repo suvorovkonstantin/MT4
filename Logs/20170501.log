@@ -1,0 +1,164 @@
+0	11:25:25.760	Custom indicator TPO-Range-v3 FDAX,M15: loaded successfully
+0	11:25:25.768	Custom indicator BetterVolume 1.4 FDAX,M15: loaded successfully
+0	11:25:25.860	TPO-Range-v3 FDAX,M15: initialized
+0	11:25:25.866	BetterVolume 1.4 FDAX,M15: initialized
+0	11:25:26.171	Custom indicator TPO-Range-v3 AAPL,H1: loaded successfully
+0	11:25:26.179	Custom indicator BetterVolume 1.4 AAPL,H1: loaded successfully
+0	11:25:26.289	TPO-Range-v3 AAPL,H1: initialized
+0	11:25:26.295	BetterVolume 1.4 AAPL,H1: initialized
+0	11:25:26.419	Custom indicator TPO-Range-v3 USDRUB,M30: loaded successfully
+0	11:25:26.426	Custom indicator BetterVolume 1.4 USDRUB,M30: loaded successfully
+0	11:25:26.453	TPO-Range-v3 USDRUB,M30: initialized
+0	11:25:26.459	BetterVolume 1.4 USDRUB,M30: initialized
+0	11:25:26.627	Custom indicator TPO-Range-v3 NQ,M1: loaded successfully
+0	11:25:26.635	Custom indicator BetterVolume 1.4 NQ,M1: loaded successfully
+0	11:25:26.729	TPO-Range-v3 NQ,M1: initialized
+0	11:25:26.735	BetterVolume 1.4 NQ,M1: initialized
+0	11:25:26.899	Custom indicator TPO-Range-v3 XAGUSD,H1: loaded successfully
+0	11:25:26.907	Custom indicator BetterVolume 1.4 XAGUSD,H1: loaded successfully
+0	11:25:26.952	TPO-Range-v3 XAGUSD,H1: initialized
+0	11:25:26.958	BetterVolume 1.4 XAGUSD,H1: initialized
+0	11:25:27.145	Custom indicator TPO-Range-v3 BRN,M5: loaded successfully
+0	11:25:27.153	Custom indicator BetterVolume 1.4 BRN,M5: loaded successfully
+0	11:25:27.214	TPO-Range-v3 BRN,M5: initialized
+0	11:25:27.220	BetterVolume 1.4 BRN,M5: initialized
+0	11:25:27.363	Custom indicator TPO-Range-v3 EURUSD,M5: loaded successfully
+0	11:25:27.372	Custom indicator BetterVolume 1.4 EURUSD,M5: loaded successfully
+0	11:25:27.406	TPO-Range-v3 EURUSD,M5: initialized
+0	11:25:27.412	BetterVolume 1.4 EURUSD,M5: initialized
+0	11:25:27.475	Custom indicator TPO-Range-v3 GBPUSD,H1: loaded successfully
+0	11:25:27.482	Custom indicator BetterVolume 1.4 GBPUSD,H1: loaded successfully
+0	11:25:27.528	TPO-Range-v3 GBPUSD,H1: initialized
+0	11:25:27.533	BetterVolume 1.4 GBPUSD,H1: initialized
+0	11:25:27.617	Custom indicator PivotDaily EURUSD,M15: loaded successfully
+0	11:25:27.632	PivotDaily EURUSD,M15: initialized
+0	11:25:27.675	Custom indicator Happs_Phases_v4 NOKJPY,M15: loaded successfully
+0	11:25:27.679	Happs_Phases_v4 NOKJPY,M15: initialized
+0	11:25:27.782	Custom indicator Happs_Phases_v4 SOYBEAN,M15: loaded successfully
+0	11:25:27.790	Custom indicator PivotDaily SOYBEAN,M15: loaded successfully
+0	11:25:27.808	Happs_Phases_v4 SOYBEAN,M15: initialized
+0	11:25:27.819	PivotDaily SOYBEAN,M15: initialized
+0	11:28:49.804	TPO-Range-v3 FDAX,M15: uninit reason 9
+0	11:28:49.855	BetterVolume 1.4 FDAX,M15: uninit reason 9
+0	11:28:49.855	TPO-Range-v3 AAPL,H1: uninit reason 9
+0	11:28:49.856	BetterVolume 1.4 AAPL,H1: uninit reason 9
+0	11:28:49.856	TPO-Range-v3 USDRUB,M30: uninit reason 9
+0	11:28:50.276	BetterVolume 1.4 USDRUB,M30: uninit reason 9
+0	11:28:50.276	TPO-Range-v3 NQ,M1: uninit reason 9
+0	11:28:50.889	BetterVolume 1.4 NQ,M1: uninit reason 9
+0	11:28:50.889	TPO-Range-v3 XAGUSD,H1: uninit reason 9
+0	11:28:50.889	BetterVolume 1.4 XAGUSD,H1: uninit reason 9
+0	11:28:50.889	TPO-Range-v3 BRN,M5: uninit reason 9
+0	11:28:50.890	BetterVolume 1.4 BRN,M5: uninit reason 9
+0	11:28:50.890	TPO-Range-v3 EURUSD,M5: uninit reason 9
+0	11:28:50.890	BetterVolume 1.4 EURUSD,M5: uninit reason 9
+0	11:28:50.890	TPO-Range-v3 GBPUSD,H1: uninit reason 9
+0	11:28:50.892	BetterVolume 1.4 GBPUSD,H1: uninit reason 9
+0	11:28:50.892	PivotDaily EURUSD,M15: uninit reason 9
+0	11:28:50.892	Happs_Phases_v4 NOKJPY,M15: deinitialized
+0	11:28:50.892	Happs_Phases_v4 NOKJPY,M15: uninit reason 9
+0	11:28:50.893	Happs_Phases_v4 SOYBEAN,M15: deinitialized
+0	11:28:50.893	Happs_Phases_v4 SOYBEAN,M15: uninit reason 9
+0	11:28:50.893	PivotDaily SOYBEAN,M15: uninit reason 9
+0	11:28:51.031	Custom indicator TPO-Range-v3 FDAX,M15: removed
+0	11:28:51.032	Custom indicator BetterVolume 1.4 FDAX,M15: removed
+0	11:28:51.056	Custom indicator TPO-Range-v3 AAPL,H1: removed
+0	11:28:51.057	Custom indicator BetterVolume 1.4 AAPL,H1: removed
+0	11:28:51.071	Custom indicator TPO-Range-v3 USDRUB,M30: removed
+0	11:28:51.072	Custom indicator BetterVolume 1.4 USDRUB,M30: removed
+0	11:28:51.100	Custom indicator TPO-Range-v3 NQ,M1: removed
+0	11:28:51.102	Custom indicator BetterVolume 1.4 NQ,M1: removed
+0	11:28:51.119	Custom indicator TPO-Range-v3 XAGUSD,H1: removed
+0	11:28:51.120	Custom indicator BetterVolume 1.4 XAGUSD,H1: removed
+0	11:28:51.136	Custom indicator TPO-Range-v3 BRN,M5: removed
+0	11:28:51.137	Custom indicator BetterVolume 1.4 BRN,M5: removed
+0	11:28:51.144	Custom indicator TPO-Range-v3 EURUSD,M5: removed
+0	11:28:51.145	Custom indicator BetterVolume 1.4 EURUSD,M5: removed
+0	11:28:51.152	Custom indicator TPO-Range-v3 GBPUSD,H1: removed
+0	11:28:51.153	Custom indicator BetterVolume 1.4 GBPUSD,H1: removed
+0	11:28:51.159	Custom indicator PivotDaily EURUSD,M15: removed
+0	11:28:51.164	Custom indicator Happs_Phases_v4 NOKJPY,M15: removed
+0	11:28:51.177	Custom indicator Happs_Phases_v4 SOYBEAN,M15: removed
+0	11:28:51.178	Custom indicator PivotDaily SOYBEAN,M15: removed
+0	11:29:04.812	Custom indicator TPO-Range-v3 FDAX,M15: loaded successfully
+0	11:29:04.820	Custom indicator BetterVolume 1.4 FDAX,M15: loaded successfully
+0	11:29:04.836	TPO-Range-v3 FDAX,M15: initialized
+0	11:29:04.841	BetterVolume 1.4 FDAX,M15: initialized
+0	11:29:04.896	Custom indicator TPO-Range-v3 AAPL,H1: loaded successfully
+0	11:29:04.904	Custom indicator BetterVolume 1.4 AAPL,H1: loaded successfully
+0	11:29:04.919	TPO-Range-v3 AAPL,H1: initialized
+0	11:29:04.924	BetterVolume 1.4 AAPL,H1: initialized
+0	11:29:04.995	Custom indicator TPO-Range-v3 USDRUB,M30: loaded successfully
+0	11:29:05.003	Custom indicator BetterVolume 1.4 USDRUB,M30: loaded successfully
+0	11:29:05.018	TPO-Range-v3 USDRUB,M30: initialized
+0	11:29:05.023	BetterVolume 1.4 USDRUB,M30: initialized
+0	11:29:05.099	Custom indicator TPO-Range-v3 NQ,M1: loaded successfully
+0	11:29:05.106	Custom indicator BetterVolume 1.4 NQ,M1: loaded successfully
+0	11:29:05.123	TPO-Range-v3 NQ,M1: initialized
+0	11:29:05.128	BetterVolume 1.4 NQ,M1: initialized
+0	11:29:05.480	Custom indicator TPO-Range-v3 XAGUSD,H1: loaded successfully
+0	11:29:05.488	Custom indicator BetterVolume 1.4 XAGUSD,H1: loaded successfully
+0	11:29:05.505	TPO-Range-v3 XAGUSD,H1: initialized
+0	11:29:05.510	BetterVolume 1.4 XAGUSD,H1: initialized
+0	11:29:05.630	Custom indicator TPO-Range-v3 BRN,M5: loaded successfully
+0	11:29:05.638	Custom indicator BetterVolume 1.4 BRN,M5: loaded successfully
+0	11:29:05.653	TPO-Range-v3 BRN,M5: initialized
+0	11:29:05.659	BetterVolume 1.4 BRN,M5: initialized
+0	11:29:05.728	Custom indicator TPO-Range-v3 EURUSD,M5: loaded successfully
+0	11:29:05.738	Custom indicator BetterVolume 1.4 EURUSD,M5: loaded successfully
+0	11:29:05.757	TPO-Range-v3 EURUSD,M5: initialized
+0	11:29:05.763	BetterVolume 1.4 EURUSD,M5: initialized
+0	11:29:05.835	Custom indicator TPO-Range-v3 GBPUSD,H1: loaded successfully
+0	11:29:05.842	Custom indicator BetterVolume 1.4 GBPUSD,H1: loaded successfully
+0	11:29:05.857	TPO-Range-v3 GBPUSD,H1: initialized
+0	11:29:05.863	BetterVolume 1.4 GBPUSD,H1: initialized
+0	11:29:05.908	Custom indicator PivotDaily EURUSD,M15: loaded successfully
+0	11:29:05.918	PivotDaily EURUSD,M15: initialized
+0	11:29:05.955	Custom indicator Happs_Phases_v4 NOKJPY,M15: loaded successfully
+0	11:29:05.956	Happs_Phases_v4 NOKJPY,M15: initialized
+0	11:29:06.011	Custom indicator Happs_Phases_v4 SOYBEAN,M15: loaded successfully
+0	11:29:06.020	Custom indicator PivotDaily SOYBEAN,M15: loaded successfully
+0	11:29:06.020	Happs_Phases_v4 SOYBEAN,M15: initialized
+0	11:29:06.030	PivotDaily SOYBEAN,M15: initialized
+0	11:30:08.547	TPO-Range-v3 FDAX,M15: uninit reason 9
+0	11:30:08.592	BetterVolume 1.4 FDAX,M15: uninit reason 9
+0	11:30:08.592	TPO-Range-v3 AAPL,H1: uninit reason 9
+0	11:30:08.593	BetterVolume 1.4 AAPL,H1: uninit reason 9
+0	11:30:08.593	TPO-Range-v3 USDRUB,M30: uninit reason 9
+0	11:30:09.050	BetterVolume 1.4 USDRUB,M30: uninit reason 9
+0	11:30:09.050	TPO-Range-v3 NQ,M1: uninit reason 9
+0	11:30:09.724	BetterVolume 1.4 NQ,M1: uninit reason 9
+0	11:30:09.724	TPO-Range-v3 XAGUSD,H1: uninit reason 9
+0	11:30:09.724	BetterVolume 1.4 XAGUSD,H1: uninit reason 9
+0	11:30:09.724	TPO-Range-v3 BRN,M5: uninit reason 9
+0	11:30:09.726	BetterVolume 1.4 BRN,M5: uninit reason 9
+0	11:30:09.726	TPO-Range-v3 EURUSD,M5: uninit reason 9
+0	11:30:09.726	BetterVolume 1.4 EURUSD,M5: uninit reason 9
+0	11:30:09.726	TPO-Range-v3 GBPUSD,H1: uninit reason 9
+0	11:30:09.728	BetterVolume 1.4 GBPUSD,H1: uninit reason 9
+0	11:30:09.728	PivotDaily EURUSD,M15: uninit reason 9
+0	11:30:09.728	Happs_Phases_v4 NOKJPY,M15: deinitialized
+0	11:30:09.728	Happs_Phases_v4 NOKJPY,M15: uninit reason 9
+0	11:30:09.729	Happs_Phases_v4 SOYBEAN,M15: deinitialized
+0	11:30:09.729	Happs_Phases_v4 SOYBEAN,M15: uninit reason 9
+0	11:30:09.729	PivotDaily SOYBEAN,M15: uninit reason 9
+0	11:30:09.911	Custom indicator TPO-Range-v3 FDAX,M15: removed
+0	11:30:09.913	Custom indicator BetterVolume 1.4 FDAX,M15: removed
+0	11:30:09.917	Custom indicator TPO-Range-v3 AAPL,H1: removed
+0	11:30:09.918	Custom indicator BetterVolume 1.4 AAPL,H1: removed
+0	11:30:09.920	Custom indicator TPO-Range-v3 USDRUB,M30: removed
+0	11:30:09.921	Custom indicator BetterVolume 1.4 USDRUB,M30: removed
+0	11:30:09.929	Custom indicator TPO-Range-v3 NQ,M1: removed
+0	11:30:09.931	Custom indicator BetterVolume 1.4 NQ,M1: removed
+0	11:30:09.935	Custom indicator TPO-Range-v3 XAGUSD,H1: removed
+0	11:30:09.936	Custom indicator BetterVolume 1.4 XAGUSD,H1: removed
+0	11:30:09.940	Custom indicator TPO-Range-v3 BRN,M5: removed
+0	11:30:09.941	Custom indicator BetterVolume 1.4 BRN,M5: removed
+0	11:30:09.945	Custom indicator TPO-Range-v3 EURUSD,M5: removed
+0	11:30:09.946	Custom indicator BetterVolume 1.4 EURUSD,M5: removed
+0	11:30:09.950	Custom indicator TPO-Range-v3 GBPUSD,H1: removed
+0	11:30:09.951	Custom indicator BetterVolume 1.4 GBPUSD,H1: removed
+0	11:30:09.954	Custom indicator PivotDaily EURUSD,M15: removed
+0	11:30:09.955	Custom indicator Happs_Phases_v4 NOKJPY,M15: removed
+0	11:30:09.968	Custom indicator Happs_Phases_v4 SOYBEAN,M15: removed
+0	11:30:09.970	Custom indicator PivotDaily SOYBEAN,M15: removed
